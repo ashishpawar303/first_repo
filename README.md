@@ -1,2 +1,3 @@
 # first_repo
-this is my first repo 
+readme :- readme stands for main documentation about the project.
+
